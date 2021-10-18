@@ -1,0 +1,1 @@
+# typescript-dependency-inject-example
